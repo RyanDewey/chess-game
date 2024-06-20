@@ -1,0 +1,3 @@
+/Users/ryandewey/CLionProjects/HelloSFML/cmake-build-debug/CMakeFiles/HelloSFML.dir
+/Users/ryandewey/CLionProjects/HelloSFML/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ryandewey/CLionProjects/HelloSFML/cmake-build-debug/CMakeFiles/rebuild_cache.dir
